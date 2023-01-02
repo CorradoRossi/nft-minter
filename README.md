@@ -1,1 +1,1 @@
-# NFT Minter Tutorial
+# NFT Minter
